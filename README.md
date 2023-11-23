@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KenulHansira
 - 👀 I’m interested in artificial inteligance
-- 🌱 I’m currently machine learning
+- 🌱 I’m currently studies about machine learning
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me on Linkedin,Facebook,Instargram
 
